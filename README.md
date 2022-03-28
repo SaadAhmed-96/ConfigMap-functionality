@@ -73,5 +73,7 @@ Making the configmap immutable has the following advantages:
 ## Reading Material:
 
 https://kubernetes.io/docs/concepts/configuration/configmap/#mounted-configmaps-are-updated-automatically --- Config-map mutability & immutability
+
 https://kubernetes.io/docs/tasks/configure-pod-container/configure-pod-configmap/#define-a-container-environment-variable-with-data-from-a-single-configmap -- configuring configmap as envoirnment variable
+
 https://github.com/kubernetes/kubernetes/issues/30189 -- Kubelet sync interval
